@@ -1,0 +1,10 @@
+﻿{
+  "first_name": "Richard",
+  "last_name": "Rich",
+  "gender": "male",
+  "dob": "1990-01-01",
+  "email": "richard.rich@email.com",
+  "phone": "555.555.5555",
+  "address": "1 Main St, Kansas City, MO 64105",
+  "status": "active"
+}
