@@ -29,6 +29,6 @@ $ https://github.com/acikgozmehmet/APITestingAutomationSuite.git
 ```
 
 Before you run it:
-* Enter the valid credentials in the accessToken filed in the 'app.config' file
+* Enter the valid credentials in the accessToken field in the 'app.config' file
 
 * You will have the reports in the "Reports" folder after each run
