@@ -11,7 +11,9 @@ This is a BDD-style API testing automatation framework which is built in C#. It 
 The service can be reached at https://gorest.co.in/ 
 Please note that 
 1. you will have to create an account at  https://gorest.co.in/ to get the access token in order to run the framework. 
-2. You will need to update accessToken value in the app.config. Please check out the https://github.com/acikgozmehmet/APITestingAutomationSuite/wiki page for details.
+2. You will need to update accessToken value in the app.config. 
+
+**Please check out the https://github.com/acikgozmehmet/APITestingAutomationSuite/wiki page for details.**
 
 ## Technologies
 Project is created with:
